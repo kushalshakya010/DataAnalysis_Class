@@ -1,7 +1,6 @@
 import random
 print("welcome to the number guessing game")
 comp_choice = random.randint(1, 100)
-print(comp_choice)
 
 attempt = 0
 while attempt<5:

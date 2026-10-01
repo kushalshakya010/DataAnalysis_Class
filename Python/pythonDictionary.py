@@ -28,3 +28,8 @@ students={
     "s3": {"name": "leafa", "marks": 40}
 }
 print(students["s1"])
+
+#name age depart, add address later
+employeeDict ={
+    
+}
