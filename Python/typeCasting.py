@@ -2,7 +2,9 @@ a = input("Enter first number: ")
 b = input("Enter second number: ")
 sum = int(a) + int(b)
 print("sum is: " + str(sum))
-print("")
+
+print(" ")
+
 print("Now for 2nd part:")
 c = input("Enter floating first number: ")
 d = input("Enter floating second number: ")
